@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\style.scss"],"names":[],"mappings":"AAAA;EACC;EACA;;;AAGD;EACC;EACA;EACA;;;AAGD;EACC;EACA;EACA","file":"js.00a46daa.css","sourceRoot":"..","sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n}\n\n#canvas {\n\twidth: 100%;\n\theight: 100%;\n\tposition: fixed;\n}\n\n#canvas2d {\n\tz-index: 3;\n\tposition: relative;\n\tdisplay: none;\n}"]}
